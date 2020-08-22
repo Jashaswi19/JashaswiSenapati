@@ -19,7 +19,7 @@
   <b>Proficient in:</b><br/>
 C programming, Java, PHP, PHP frameworks like Yii2 and Codeigniter, HTML, CSS, Javascript, Bootstrap, jQuery, MySQL.<br/>
   <b>Familiar With:</b><br/>
-React.js, AngularJs, Python<br/>
+React.js, AngularJs, Python.<br/>
 </p>
 
 <!--### Watch my webinar on UI/UX
@@ -30,7 +30,7 @@ React.js, AngularJs, Python<br/>
   ⦿ Follow me on <a href="https://www.linkedin.com/in/jashaswi-senapati-244827169" target="_blank">
     LinkedIn 
   </a><br>
-  ⦿ See my design photography on <a href="https://www.flickr.com/photos/jashaswi/">Flickr</a><br>
+  ⦿ See my photography on <a href="https://www.flickr.com/photos/jashaswi/">Flickr</a><br>
   <!--⦿ Read the stories and poetries I write on my <a href="https://iamambasta.wordpress.com/">Website</a><br>
   ⦿ Follow my design on <a href="https://dribbble.com/AmbastaNeha">Dribbble</a><br>-->
   
